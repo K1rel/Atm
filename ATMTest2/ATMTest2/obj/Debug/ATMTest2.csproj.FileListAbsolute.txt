@@ -1,0 +1,12 @@
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\bin\Debug\ATMTest2.exe.config
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\bin\Debug\ATMTest2.exe
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\bin\Debug\ATMTest2.pdb
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\obj\Debug\ATMTest2.frmLogin.resources
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\obj\Debug\ATMTest2.Properties.Resources.resources
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\obj\Debug\ATMTest2.csproj.GenerateResource.cache
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\obj\Debug\ATMTest2.csproj.CoreCompileInputs.cache
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\obj\Debug\ATMTest2.exe
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\obj\Debug\ATMTest2.pdb
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\obj\Debug\ATMTest2.fBankAcc.resources
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\bin\Debug\ATMLogin2.mdb
+C:\Users\Kire\Documents\My c# projects\ATMTest2\ATMTest2\obj\Debug\ATMTest2.csproj.AssemblyReference.cache
